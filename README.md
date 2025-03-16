@@ -33,7 +33,7 @@ If you continue to experience problems or have any questions, feel free to reach
 ---
 
 ## Privacy Policy
-You can view our Privacy Policy [here](Your-Privacy-Policy-URL).  
+You can view our Privacy Policy [here](PRIVACY_POLICY.md).  
 
 ---
 
