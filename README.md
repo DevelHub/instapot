@@ -27,8 +27,8 @@ If you encounter any issues while using Instapot, try the following:
 
 ## Contact Us
 If you continue to experience problems or have any questions, feel free to reach out to us via:  
-- [GitHub Issues](https://github.com/YourUsername/instapot/issues) - Report bugs or suggest features.  
-- Email: [YourEmail@example.com] (Replace with your actual email address).  
+- [GitHub Issues](https://github.com/DevelHub/instapot/issues) - Report bugs or suggest features.  
+- Email: TBA
 
 ---
 
