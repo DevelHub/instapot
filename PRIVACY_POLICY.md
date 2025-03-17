@@ -36,6 +36,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 ### Contact Us  
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-- Email: [YourEmail@example.com]  
+- Email: TBA  
 
 © 2025 Code Indie Studio. All rights reserved.
